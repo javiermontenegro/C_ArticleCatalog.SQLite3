@@ -26,6 +26,13 @@ The next step is to build and install the software using make.
 $ make
 $ make install
 ```
+
+### SQLite3 requirements
+```
+$ sudo apt-get update
+$ sudo apt-get install sqlite3 libsqlite3-dev
+```
+
 ## Running the program 
 ```
 // username: admin 
