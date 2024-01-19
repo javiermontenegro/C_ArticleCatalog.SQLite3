@@ -7,7 +7,7 @@ licensed under the permissive MIT license.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/javiermontenegro/C_ArticleCatalog.SQLite3/master/screenshot.png"
-  alt="C_ArticleCatalog.SQLite3" width="1920" height="1080">
+  alt="C_ArticleCatalog.SQLite3" width="686" height="385">
 </p>
 
 
