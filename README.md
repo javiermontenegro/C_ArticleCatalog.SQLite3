@@ -4,6 +4,14 @@
 This project is a implementation of an article catalog in ANSI C with SQLite3
 licensed under the permissive MIT license.
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/javiermontenegro/C_ArticleCatalog.SQLite3/master/screenshot.png"
+  alt="C_ArticleCatalog.SQLite3"
+  width="686" height="289">
+</p>
+
+
 ### Prerequisites
 
 In order to be able to install customer you will need following software:
@@ -11,6 +19,15 @@ Make, Autoconf, Automake, GCC, and optionally Doxygen if you wish to
 generate documentation. If you're using Windows system you may need to
 install cygwin and use its package manager to install the aforementioned
 tools.
+
+### How to use this project
+
+Clone the repository:
+```
+$ git clone ssh://git@github.com/javiermontenegro/C_ArticleCatalog.SQLite3.git
+```
+
+Or else simply download zip file from [this link](https://codeload.github.com/javiermontenegro/C_ArticleCatalog.SQLite3/zip/refs/heads/master).
 
 ### Installing
 
